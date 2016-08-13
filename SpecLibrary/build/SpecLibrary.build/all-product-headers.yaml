@@ -1,0 +1,43 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/Products/SpecLibrary.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ServerForSpecClass.h",
+          'external-contents': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/SpecLibrary/ServerForSpecClass.h"
+        },
+        {
+          'type': 'file',
+          'name': "SpecLibrary-Swift.h",
+          'external-contents': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/Products/SpecLibrary.framework/Headers/SpecLibrary-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SpecLibrary.h",
+          'external-contents': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/SpecLibrary/SpecLibrary.h"
+        },
+        {
+          'type': 'file',
+          'name': "SpecLibraryClass.h",
+          'external-contents': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/SpecLibrary/SpecLibraryClass.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/Products/SpecLibrary.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lijia/Documents/LearnOC/CocoaPods/SpecLibrary/SpecLibrary/SpecLibrary/Products/SpecLibrary.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
